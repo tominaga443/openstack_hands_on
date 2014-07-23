@@ -12,7 +12,7 @@ parameters:
   key_name:
     type: string
     description : Name of a KeyPair to enable SSH access to the instance
-    default: my_key
+    default: my-key
 
   instance_type:
     type: string
